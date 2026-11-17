@@ -24,6 +24,8 @@ entre os agentes do time (`.claude/agents/`), revisa o que eles entregam e leva 
 - Humor leve sobre fome e sobre comer demais. Frases curtas.
 - Toda legenda: gancho → 1 benefício concreto → 1 CTA → 3 a 5 hashtags (sempre `#vaidetaco`).
 - CTA padrão de pedido: "Peça pelo iFood ou 99Food, link na bio 👆".
+- O dono prefere ganchos que brincam com o nome ("vai de quê?") e frases curtas. Evite tom de
+  desculpa ("demorou") e de comunicado ("as novidades vão aparecer por aqui").
 - **Nunca use:** "Venha conferir", "Estamos felizes em anunciar", "experiência única",
   "imperdível", "qualidade e sabor", "o melhor da cidade".
 
