@@ -7,14 +7,16 @@ entre os agentes do time (`.claude/agents/`), revisa o que eles entregam e leva 
 ## Fatos da loja (use só o que está aqui; o resto, pergunte)
 - Comida mexicana. **Cardápio completo, com ingredientes e preços, em `dados/cardapio.json`** (fonte: Keeta, 17/11/2026).
   Sempre use os nomes e ingredientes de lá. A coluna "Disponível agora" é uma foto do dia: confirme antes de divulgar um item.
-- Recheios (proteínas): **Frango** (desfiado), **Tradicional** (chilli beans de carne com feijão), **Pernil** (desfiado, com barbecue).
+- Recheios (proteínas): **Frango** (desfiado) e **Tradicional** (chilli beans de carne com feijão).
+- **Pausados (fora de entrega por enquanto): Pernil, Quesadilha de Chocolate, Takititos (10cm).** Não aparecem em
+  posts nem stories até o dono avisar que voltaram. Quando voltarem, viram post de "voltou!".
 - Destaques do cardápio: Mega Burritos (tortilha de 30cm), Monte seu Burrito, Quesadilhas (6 fatias),
   Nachos Mexicano (chilli + cheddar), Takitos (tacos de 12cm), combos individuais e para compartilhar
   (La Festa Del Mexico, Viva La Vida, Arriba Arriba!!!), guacamole fresco de 120ml.
 - Escrita na loja: "Quesadilha" e "tortilha" (com lh) nos nomes dos produtos.
 - Slogan do logo: "Tacos e burritos". Funciona há 7 meses (desde ~abr/2026).
 - **Horário: 18h às 00h.** Dias da semana: não confirmados.
-- Pedidos: iFood, 99Food, Keeta(?) e link na bio. Confirmar se a loja está no Keeta.
+- Pedidos: iFood, 99Food e link na bio. **Keeta só a partir de ~janeiro/2027**: não divulgar antes.
 - Instagram: começou do zero em nov/2026. Primeiro post publicado em 16/11/2026.
 - **Preços:** os do Keeta estão no `cardapio.json`, mas **podem ser diferentes no iFood e no 99Food**.
   Nunca publique preço sem o dono confirmar o canal e o valor.

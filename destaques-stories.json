@@ -6,35 +6,47 @@
    "formato": "story",
    "tema": "amarelo",
    "kicker": "Pede aí",
-   "titulo": "Três jeitos de pedir",
-   "subtitulo": "iFood, 99Food ou o link da bio. Você escolhe.",
+   "titulo": "Bateu a\nfome?",
+   "subtitulo": "Dois apps e um link. Você escolhe por onde.",
    "emoji": "🛵",
-   "cta": "Pede aí",
+   "cta": "Bora pedir",
    "tamTitulo": 150
   },
   {
    "id": "1-pedir-story2",
    "template": "frase",
    "formato": "story",
-   "tema": "amarelo",
+   "tema": "escuro",
    "kicker": "Pede aí",
-   "titulo": "Tá no iFood",
+   "titulo": "Tá no\niFood",
    "subtitulo": "Procura Vai de Taco no app e monta seu pedido.",
-   "emoji": "🛵",
+   "emoji": "📱",
    "cta": "Abrir iFood",
-   "tamTitulo": 180
+   "tamTitulo": 150
   },
   {
    "id": "1-pedir-story3",
    "template": "frase",
    "formato": "story",
+   "tema": "claro",
+   "kicker": "Pede aí",
+   "titulo": "Tá no\n99Food",
+   "subtitulo": "Mesmo taco, outro app. Busca Vai de Taco por lá.",
+   "emoji": "📱",
+   "cta": "Abrir 99Food",
+   "tamTitulo": 150
+  },
+  {
+   "id": "1-pedir-story4",
+   "template": "frase",
+   "formato": "story",
    "tema": "amarelo",
    "kicker": "Pede aí",
-   "titulo": "Tá no 99Food",
-   "subtitulo": "Mesmo taco, outro app. Busca Vai de Taco por lá.",
-   "emoji": "🛵",
-   "cta": "Abrir 99Food",
-   "tamTitulo": 180
+   "titulo": "Ou no link\nda bio",
+   "subtitulo": "Pedidos e contato direto com a gente.",
+   "emoji": "👆",
+   "cta": "Link na bio",
+   "tamTitulo": 125
   },
   {
    "id": "2-horario-story1",
@@ -42,11 +54,11 @@
    "formato": "story",
    "tema": "escuro",
    "kicker": "Tá aberto?",
-   "titulo": "Das 18h às 00h",
+   "titulo": "Das 18h\nàs 00h",
    "subtitulo": "Do jantar até a fome da meia-noite.",
    "emoji": "🌙",
    "cta": "Pedir agora",
-   "tamTitulo": 180
+   "tamTitulo": 150
   },
   {
    "id": "3-cardapio-story1",
@@ -54,62 +66,86 @@
    "formato": "story",
    "tema": "claro",
    "kicker": "Cardápio",
-   "titulo": "O que tem aqui",
-   "subtitulo": "Tacos, burritos, quesadillas e nachos. Sim, tudo isso.",
+   "titulo": "O que tem\naqui",
+   "subtitulo": "Burritos, quesadilhas, nachos, tacos e combos pra dividir.",
    "emoji": "📋",
-   "cta": "",
-   "tamTitulo": 180
+   "cta": "Arrasta 👉",
+   "tamTitulo": 125
   },
   {
    "id": "3-cardapio-story2",
-   "template": "frase",
-   "formato": "story",
-   "tema": "claro",
-   "kicker": "Cardápio",
-   "titulo": "E pra acompanhar",
-   "subtitulo": "Guacamole e sour cream, porque nacho sozinho fica triste.",
-   "emoji": "📋",
-   "cta": "Quero os dois",
-   "tamTitulo": 150
-  },
-  {
-   "id": "3-cardapio-story3",
    "template": "cardapio",
    "formato": "story",
    "tema": "amarelo",
    "titulo": "O cardápio",
    "itens": [
     {
-     "emoji": "🌮",
-     "nome": "Taco",
-     "desc": "O dono da casa"
+     "emoji": "🌯",
+     "nome": "Mega Burritos",
+     "desc": "30cm · Frango ou Tradicional"
     },
     {
-     "emoji": "🌯",
-     "nome": "Burrito",
-     "desc": "Grande e bem recheado"
+     "emoji": "🛠️",
+     "nome": "Monte seu Burrito",
+     "desc": "Proteína + até 7 ingredientes + queijo"
     },
     {
      "emoji": "🧀",
-     "nome": "Quesadilla",
-     "desc": "Queijo que puxa"
+     "nome": "Quesadilhas",
+     "desc": "6 fatias crocantes e recheadas"
     },
     {
      "emoji": "🌶️",
-     "nome": "Nachos",
-     "desc": "Crocantes, pra dividir"
+     "nome": "Nachos Mexicano",
+     "desc": "Com chilli e cheddar cremoso"
     },
     {
-     "emoji": "🥑",
-     "nome": "Guacamole",
-     "desc": "Cremoso e fresquinho"
+     "emoji": "🌮",
+     "nome": "Takitos",
+     "desc": "Tacos de 12cm, recheio à sua escolha"
     },
     {
-     "emoji": "🥛",
-     "nome": "Sour cream",
-     "desc": "Pra completar"
+     "emoji": "🎉",
+     "nome": "Combos pra dividir",
+     "desc": "La Festa Del Mexico · Viva La Vida"
     }
    ]
+  },
+  {
+   "id": "3-cardapio-story3",
+   "template": "frase",
+   "formato": "story",
+   "tema": "escuro",
+   "kicker": "Monte seu Burrito",
+   "titulo": "Do seu\njeito",
+   "subtitulo": "1 proteína + até 7 ingredientes + o queijo que você quiser.",
+   "emoji": "🛠️🌯",
+   "cta": "Montar o meu",
+   "tamTitulo": 150
+  },
+  {
+   "id": "3-cardapio-story4",
+   "template": "frase",
+   "formato": "story",
+   "tema": "amarelo",
+   "kicker": "Pra dividir",
+   "titulo": "La Festa\nDel Mexico",
+   "subtitulo": "2 burritos, nachos com chilli e cheddar, 4 tacos e guacamole.",
+   "emoji": "🎉",
+   "cta": "Chama a galera",
+   "tamTitulo": 125
+  },
+  {
+   "id": "3-cardapio-story5",
+   "template": "frase",
+   "formato": "story",
+   "tema": "claro",
+   "kicker": "Pra dividir",
+   "titulo": "Viva La\nVida",
+   "subtitulo": "6 quesadilhas, nachos com chilli e cheddar e 4 tacos artesanais.",
+   "emoji": "💃",
+   "cta": "Bora dividir",
+   "tamTitulo": 150
   },
   {
    "id": "4-tacos-story1",
@@ -117,47 +153,71 @@
    "formato": "story",
    "tema": "amarelo",
    "kicker": "Tacos",
-   "titulo": "O dono do nome",
-   "subtitulo": "Cabe na mão, some rápido. Peça mais de um.",
+   "titulo": "O dono\ndo nome",
+   "subtitulo": "Takitos de 12cm, recheio de frango ou tradicional.",
    "emoji": "🌮",
    "cta": "Vai de taco",
-   "tamTitulo": 180
+   "tamTitulo": 150
   },
   {
    "id": "4-tacos-story2",
    "template": "frase",
    "formato": "story",
-   "tema": "amarelo",
-   "kicker": "Tacos",
-   "titulo": "Dica de amigo",
-   "subtitulo": "Guacamole e sour cream por cima. Confia.",
-   "emoji": "🌮",
-   "cta": "Pedir tacos",
-   "tamTitulo": 180
+   "tema": "escuro",
+   "kicker": "Takitos",
+   "titulo": "4 tacos +\nguaca grátis",
+   "subtitulo": "Escolhe o recheio dos 4 e o guacamole de 120ml vem de presente.",
+   "emoji": "🌮🥑",
+   "cta": "Quero esse",
+   "tamTitulo": 110
+  },
+  {
+   "id": "4-tacos-story3",
+   "template": "frase",
+   "formato": "story",
+   "tema": "claro",
+   "kicker": "Combo individual",
+   "titulo": "2 tacos +\nnachos",
+   "subtitulo": "2 tacos à sua escolha, nachos individual e guacamole 120ml.",
+   "emoji": "🌮🌶️",
+   "cta": "Pedir combo",
+   "tamTitulo": 125
   },
   {
    "id": "5-burritos-story1",
-   "template": "frase",
+   "template": "produto",
    "formato": "story",
    "tema": "escuro",
-   "kicker": "Burritos",
-   "titulo": "Enrolado no bom sentido",
-   "subtitulo": "Tudo junto numa tortilla só. Fome não tem chance.",
-   "emoji": "🌯",
-   "cta": "Vai de burrito",
-   "tamTitulo": 150
+   "foto": "assets/ia/mega-burrito-tradicional.png",
+   "selo": "Tradicional",
+   "titulo": "Mega\nBurrito",
+   "subtitulo": "30cm com chilli de carne, cheddar cremoso, queijo e alface.",
+   "cta": "Bora de burrito",
+   "tamTitulo": 130
   },
   {
    "id": "5-burritos-story2",
+   "template": "produto",
+   "formato": "story",
+   "tema": "amarelo",
+   "foto": "assets/ia/mega-burrito-frango.png",
+   "selo": "Frango",
+   "titulo": "Mega\nBurrito",
+   "subtitulo": "30cm com frango desfiado, queijo, alface e guacamole.",
+   "cta": "Bora de burrito",
+   "tamTitulo": 130
+  },
+  {
+   "id": "5-burritos-story3",
    "template": "frase",
    "formato": "story",
-   "tema": "escuro",
-   "kicker": "Burritos",
-   "titulo": "Fome grande?",
-   "subtitulo": "Burrito resolve. Das 18h até a meia-noite.",
-   "emoji": "🌯",
-   "cta": "Pedir burrito",
-   "tamTitulo": 180
+   "tema": "claro",
+   "kicker": "Monte seu Burrito",
+   "titulo": "Ou monta\no seu",
+   "subtitulo": "Alface, tomate, cebola roxa, milho, pimenta, guacamole, nachos triturado...",
+   "emoji": "🛠️",
+   "cta": "Montar o meu",
+   "tamTitulo": 125
   },
   {
    "id": "6-promos-story1",
@@ -165,11 +225,11 @@
    "formato": "story",
    "tema": "amarelo",
    "kicker": "Promos",
-   "titulo": "Fica de olho",
+   "titulo": "Fica de\nolho",
    "subtitulo": "Quando tiver promoção, ela aparece aqui primeiro.",
    "emoji": "🔥",
    "cta": "Ativa o sininho",
-   "tamTitulo": 180
+   "tamTitulo": 150
   }
  ]
 }
