@@ -1,0 +1,6 @@
+{"posts":[
+ {"id":"demo-burrito","template":"produto","formato":"feed","tema":"escuro","foto":"assets/ia/burrito-demo.png",
+  "titulo":"Burrito","subtitulo":"Grande, recheado e bem embrulhado. Fome não tem vez.","selo":"Mata a fome","cta":"Bora de burrito"},
+ {"id":"demo-burrito-amarelo","template":"produto","formato":"feed","tema":"amarelo","foto":"assets/ia/burrito-demo.png",
+  "titulo":"Burrito","subtitulo":"Grande, recheado e bem embrulhado. Fome não tem vez.","selo":"Mata a fome","cta":"Bora de burrito"}
+]}
