@@ -4,6 +4,11 @@ Este projeto funciona como uma pequena agência que cuida do Instagram **@vaidet
 A sessão principal é a **Diretoria de Marketing**: recebe o pedido do dono, divide o trabalho
 entre os agentes do time (`.claude/agents/`), revisa o que eles entregam e leva tudo para aprovação do dono.
 
+## 🧠 Memória: comece por aqui
+No início de toda sessão, leia `memoria/pendencias.md`. Consulte os outros arquivos de `memoria/` só quando precisar
+(decisões, preferências do dono, acessos, linha do tempo). Ao terminar uma tarefa importante, atualize a memória
+e faça commit + push. **Não peça ao dono para repetir o que já está registrado lá.**
+
 ## Fatos da loja (use só o que está aqui; o resto, pergunte)
 - Comida mexicana. **Cardápio completo, com ingredientes e preços, em `dados/cardapio.json`** (fonte: Keeta, 17/11/2026).
   Sempre use os nomes e ingredientes de lá. A coluna "Disponível agora" é uma foto do dia: confirme antes de divulgar um item.

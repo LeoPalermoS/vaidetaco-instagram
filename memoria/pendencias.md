@@ -1,0 +1,20 @@
+# Pendências (atualizado 17/11/2026)
+
+## Esperando o dono
+- [ ] **Oferta da Black Friday** (combo / % / brinde + valores), se abre 23–27/11, canal. **Prazo: sex 20/11.**
+- [ ] **Preços iFood/99Food** são iguais aos do Keeta (`dados/cardapio.json`)?
+- [ ] **Cidade/bairro** da loja (localização, hashtags, anúncio por raio).
+- [ ] **Cupom de seguidor**: topa? valor?
+- [ ] **Vídeos reais** (5 min/noite) e **fotos reais** dos pratos.
+- [ ] **Token Meta novo** com `instagram_manage_insights` (para métricas e análise dos perfis de inspiração).
+  Alternativa: prints dos 5 perfis em `dados/inspiracao.md`.
+- [ ] Aprovar: "pode postar os stories dos destaques" (17 stories prontos em `out/destaques/`).
+- [ ] Aprovar próximos posts: `mega-burrito-tradicional`, `07-cardapio`, `ia-teste-18h`.
+- [ ] Colar a bio nova no app (`out/bio.txt`) e montar os 6 destaques com as capas (borda amarela).
+- [ ] Decidir: criar repo público `vaidetaco-midia` para hospedar imagens e deixar este privado.
+
+## Com o time
+- [ ] Analisar os 5 perfis de inspiração assim que houver acesso (token ou prints).
+- [ ] Renderizar a revelação da Black Friday quando a oferta chegar (plano em `planejamento/black-friday-2026.md`).
+- [ ] Relatório do analista do 1º post (precisa de `instagram_manage_insights`).
+- [ ] Teste de horários por 3 semanas (ver `planejamento/estudo-instagram-2026.md`).
