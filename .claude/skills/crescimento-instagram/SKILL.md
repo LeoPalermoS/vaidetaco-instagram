@@ -18,7 +18,8 @@ Meta da conta: **seguidor local que vira pedido.** Seguidor de outra cidade não
 ## Frequência mínima sustentável
 - **Feed:** 3 por semana (2 Reels + 1 carrossel ou post).
 - **Stories:** todo dia em que abrir, perto das 17h30–18h ("abrimos!", enquete, bastidor).
-- **Melhor horário:** 11h30–13h (as pessoas planejam o jantar) e 17h–19h (fome chegando). Ajustar pelos insights após 4 semanas.
+- **Horários iniciais (ver `planejamento/estudo-instagram-2026.md`):** Reels 17h–17h30; carrosséis 11h30–12h30; stories 17h30 e 19h30–21h.
+  Teste A/B por 3 semanas e fixe os vencedores pelos Insights.
 
 ## Calendário semanal (modelo)
 | Dia | Peça | Pilar |
