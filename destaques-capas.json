@@ -1,8 +1,88 @@
-{ "posts": [
-  {"id":"capa-1-pedir","template":"capa","formato":"story","tema":"amarelo","emoji":"🛵"},
-  {"id":"capa-2-horario","template":"capa","formato":"story","tema":"amarelo","emoji":"🌙"},
-  {"id":"capa-3-cardapio","template":"capa","formato":"story","tema":"amarelo","emoji":"📋"},
-  {"id":"capa-4-tacos","template":"capa","formato":"story","tema":"amarelo","emoji":"🌮"},
-  {"id":"capa-5-burritos","template":"capa","formato":"story","tema":"amarelo","emoji":"🌯"},
-  {"id":"capa-6-promos","template":"capa","formato":"story","tema":"amarelo","emoji":"🔥"}
-]}
+{
+ "posts": [
+  {
+   "id": "capa-1-pedir",
+   "template": "capa",
+   "formato": "story",
+   "tema": "amarelo",
+   "emoji": "🛵"
+  },
+  {
+   "id": "capa-2-horario",
+   "template": "capa",
+   "formato": "story",
+   "tema": "amarelo",
+   "emoji": "🌙"
+  },
+  {
+   "id": "capa-3-cardapio",
+   "template": "capa",
+   "formato": "story",
+   "tema": "amarelo",
+   "emoji": "📋"
+  },
+  {
+   "id": "capa-4-tacos",
+   "template": "capa",
+   "formato": "story",
+   "tema": "amarelo",
+   "emoji": "🌮"
+  },
+  {
+   "id": "capa-5-burritos",
+   "template": "capa",
+   "formato": "story",
+   "tema": "amarelo",
+   "emoji": "🌯"
+  },
+  {
+   "id": "capa-6-promos",
+   "template": "capa",
+   "formato": "story",
+   "tema": "amarelo",
+   "emoji": "🔥"
+  },
+  {
+   "id": "capa-escuro-1-pedir",
+   "template": "capa",
+   "formato": "story",
+   "tema": "escuro",
+   "emoji": "🛵"
+  },
+  {
+   "id": "capa-escuro-2-horario",
+   "template": "capa",
+   "formato": "story",
+   "tema": "escuro",
+   "emoji": "🌙"
+  },
+  {
+   "id": "capa-escuro-3-cardapio",
+   "template": "capa",
+   "formato": "story",
+   "tema": "escuro",
+   "emoji": "📋"
+  },
+  {
+   "id": "capa-escuro-4-tacos",
+   "template": "capa",
+   "formato": "story",
+   "tema": "escuro",
+   "emoji": "🌮"
+  },
+  {
+   "id": "capa-escuro-5-burritos",
+   "template": "capa",
+   "formato": "story",
+   "tema": "escuro",
+   "emoji": "🌯"
+  },
+  {
+   "id": "capa-escuro-6-promos",
+   "template": "capa",
+   "formato": "story",
+   "tema": "escuro",
+   "emoji": "🔥"
+  }
+ ]
+}

@@ -2,14 +2,28 @@
   "posts": [
     {
       "id": "01-chegamos",
+      "tema": "amarelo",
       "template": "frase",
       "formato": "feed",
+      "kicker": "A pergunta de todo fim de tarde",
+      "titulo": "Vai de\nquê?",
+      "subtitulo": "A gente já sabe a resposta.",
+      "emoji": "🌮",
+      "cta": "A partir das 18h",
+      "tamTitulo": 230,
+      "legenda": "A pergunta de todo fim de tarde: vai de quê? 🤔\nA gente já sabe a resposta. 🌮\n\n🕕 Das 18h às 00h\n🛵 Peça pelo iFood ou 99Food, link na bio 👆\n\nSegue a gente e marca aquele amigo que sempre topa um taco 👇\n\n#vaidetaco #tacos #burritos #comidamexicana"
+    },
+    {
+      "id": "01-chegamos-v2",
       "tema": "escuro",
-      "tamTitulo": 150,
-      "kicker": "Agora também no Insta",
-      "titulo": "Bora de taco\npor aqui?",
-      "subtitulo": "7 meses servindo tacos e burritos. Agora você acompanha tudo de pertinho.",
-      "emoji": "🌮🌯",
+      "template": "frase",
+      "formato": "feed",
+      "kicker": "A pergunta de todo fim de tarde",
+      "titulo": "Vai de\nquê?",
+      "subtitulo": "A gente já sabe a resposta.",
+      "emoji": "🌮",
+      "cta": "A partir das 18h",
+      "tamTitulo": 230,
       "legenda": "A pergunta de todo fim de tarde: vai de quê? 🤔\nA gente já sabe a resposta. 🌮\n\n🕕 Das 18h às 00h\n🛵 Peça pelo iFood ou 99Food, link na bio 👆\n\nSegue a gente e marca aquele amigo que sempre topa um taco 👇\n\n#vaidetaco #tacos #burritos #comidamexicana"
     },
     {
