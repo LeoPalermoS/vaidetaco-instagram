@@ -12,3 +12,4 @@
 - Estudo de mercado + plano de 4 semanas em `planejamento/estudo-instagram-2026.md`.
 - Perfis de inspiração recebidos; análise bloqueada por permissão da API.
 - Criado este cérebro (`memoria/`).
+- Dono enviou análise de 5 perfis de inspiração (Mexicaníssimo, Los 3 Amigos, Balacotaco, Dale! Cancún, GUA.CO) → `dados/inspiracao.md`. Região provável: Carapicuíba/Osasco.
