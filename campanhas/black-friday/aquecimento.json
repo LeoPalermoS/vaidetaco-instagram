@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": "bf-aq-1", "template": "frase", "formato": "feed", "tema": "escuro", "pagina": "1/5",
+      "kicker": "Vem coisa aí", "titulo": "Black Taco\nFriday", "subtitulo": "Sexta, 27/11. Guarda a data e guarda a fome.", "emoji": "💛🌮",
+      "legenda": "Black Friday de TV e celular? Aqui é de taco. 🖤🌮\n\nSexta, 27/11, tem Black Taco Friday na Vai de Taco. O que vai rolar a gente ainda não conta, mas já pode ir guardando a fome.\n\nSegue a gente e conta aqui: o que você quer ver na promoção? 👇\n\n#vaidetaco #blackfriday #blacktacofriday #tacos #comidamexicana"
+    },
+    {
+      "id": "bf-aq-2", "template": "produto", "formato": "feed", "tema": "amarelo", "pagina": "2/5",
+      "titulo": "Taco", "subtitulo": "O dono da casa tá na lista. Será que entra?", "emoji": "🌮", "selo": "Suspeito nº 1", "cta": "Arrasta 👉"
+    },
+    {
+      "id": "bf-aq-3", "template": "produto", "formato": "feed", "tema": "claro", "pagina": "3/5",
+      "titulo": "Burrito", "subtitulo": "Grande, recheado e também não escapou da lista.", "emoji": "🌯", "selo": "Suspeito nº 2", "cta": "Tem mais 👉"
+    },
+    {
+      "id": "bf-aq-4", "template": "frase", "formato": "feed", "tema": "amarelo", "pagina": "4/5",
+      "kicker": "Sua vez", "titulo": "E você,\nquer o quê?", "subtitulo": "Taco, burrito, nachos ou quesadilla? Conta nos comentários.", "emoji": "👀", "cta": "Comenta aí"
+    },
+    {
+      "id": "bf-aq-5", "template": "frase", "formato": "feed", "tema": "escuro", "pagina": "5/5",
+      "kicker": "Sexta, 27/11", "titulo": "Segue pra\nsaber antes", "subtitulo": "A gente conta tudo aqui no perfil antes da sexta.", "emoji": "💛", "cta": "Segue a gente"
+    }
+  ]
+}

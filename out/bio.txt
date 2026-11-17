@@ -1,0 +1,28 @@
+BIO (recomendada, 123 caracteres)
+🌮 Bateu a fome? Vai de taco
+🌯 Ou de burrito, a gente não julga
+🕕 Aberto das 18h às 00h
+👇 iFood, 99Food ou link aqui embaixo
+
+Opção A
+🌮 Tacos e burritos sem enrolação (só o burrito)
+🥑 Nachos, quesadillas e guacamole
+🕕 Das 18h às 00h
+👇 Peça no iFood, 99Food ou no link
+
+Opção C
+🌮 Tacos e burritos, tá no nome
+🧀 Quesadilla, nachos, guacamole e sour cream
+🕕 18h às 00h
+📲 Pedidos: iFood, 99Food ou link abaixo
+
+NOME (campo "Nome", aparece na busca): Vai de Taco | Tacos e Burritos
+CATEGORIA: Restaurante mexicano
+
+DESTAQUES (nesta ordem):
+1. Pede aí     -> capa-1-pedir.png     + 1-pedir-story1..3
+2. Tá aberto?  -> capa-2-horario.png   + 2-horario-story1
+3. Cardápio    -> capa-3-cardapio.png  + 3-cardapio-story1..3
+4. Tacos       -> capa-4-tacos.png     + 4-tacos-story1..2
+5. Burritos    -> capa-5-burritos.png  + 5-burritos-story1..2
+6. Promos      -> capa-6-promos.png    + 6-promos-story1

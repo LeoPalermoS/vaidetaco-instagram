@@ -1,0 +1,14 @@
+@import url('../fonts/fonts.css');
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--bg:{{tema.bg}};--ink:{{tema.ink}};--acc:{{tema.acc}};--pim:{{cores.pimenta}}}
+body{width:{{w}}px;height:{{h}}px;overflow:hidden;font-family:'{{fonteTexto}}',sans-serif;color:var(--ink);background:var(--bg);position:relative}
+.titulo{font-family:'{{fonteTitulo}}',sans-serif;font-weight:700;line-height:.95;letter-spacing:-1px}
+.zigue{position:absolute;left:0;right:0;height:46px;background:var(--ink);
+  -webkit-mask:conic-gradient(from -45deg at bottom,#0000,#000 1deg 89deg,#0000 90deg) 50%/60px 100%}
+.zigue.topo{top:0}.zigue.base{bottom:0;transform:scaleY(-1)}
+.marca{position:absolute;bottom:80px;left:0;right:0;display:flex;justify-content:center;align-items:center;gap:22px;font-weight:600;font-size:28px}
+.marca img{height:{{logoAltura}}px}
+.emoji{font-family:'Noto Color Emoji';line-height:1}
+.foto{object-fit:cover;border-radius:36px;border:8px solid var(--ink);box-shadow:16px 16px 0 var(--ink)}
+.cta{display:inline-block;background:var(--ink);color:var(--bg);font-family:'{{fonteTitulo}}';font-weight:700;font-size:44px;padding:20px 52px;border-radius:999px}
+.selo{display:inline-block;background:var(--acc);color:var(--ink);border:5px solid var(--ink);font-weight:800;font-size:30px;padding:12px 30px;border-radius:999px;text-transform:uppercase;transform:rotate(-4deg)}

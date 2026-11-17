@@ -1,0 +1,19 @@
+<!-- Anúncio / texto grande. Campos: kicker, titulo, subtitulo, emoji, cta, tema. Feed ou story -->
+<html><head><meta charset="utf-8"><style>{{css}}
+body{zoom:{{escala}}}body{width:calc({{w}}px / {{escala}});height:calc({{h}}px / {{escala}})}
+body{display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:0 90px 220px}
+.k{font-weight:800;font-size:36px;letter-spacing:6px;text-transform:uppercase;color:var(--acc);margin-bottom:28px}
+h1{font-size:{{tamTitulo}}px}
+.sub{font-size:44px;font-weight:600;margin-top:40px;max-width:880px;line-height:1.3}
+.emoji{font-size:200px;margin-top:44px}
+.cta{margin-top:54px}
+</style></head><body>
+<div class="zigue topo"></div>
+<div class="k">{{kicker}}</div>
+<h1 class="titulo">{{titulo}}</h1>
+<p class="sub">{{subtitulo}}</p>
+{{emoji}}
+{{ctaHtml}}
+<div class="marca">{{marca}}</div>
+<div class="zigue base"></div>
+</body></html>

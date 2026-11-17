@@ -1,0 +1,23 @@
+{
+  "nome": "Vai de Taco",
+  "arroba": "@vaidetaco",
+  "slogan": "Tacos e burritos",
+  "logos": {
+    "preto": "assets/logo-preto.png",
+    "amarelo": "assets/logo-amarelo.png",
+    "creme": "assets/logo-creme.png"
+  },
+  "cores": {
+    "amarelo": "#FDBD25",
+    "preto": "#141414",
+    "creme": "#FFF8EA",
+    "pimenta": "#E63B2E"
+  },
+  "temas": {
+    "amarelo": { "bg": "#FDBD25", "ink": "#141414", "acc": "#FFF8EA", "logo": "preto" },
+    "escuro":  { "bg": "#141414", "ink": "#FDBD25", "acc": "#FFF8EA", "logo": "amarelo" },
+    "claro":   { "bg": "#FFF8EA", "ink": "#141414", "acc": "#FDBD25", "logo": "preto" }
+  },
+  "fonteTitulo": "Fredoka",
+  "fonteTexto": "Poppins"
+}

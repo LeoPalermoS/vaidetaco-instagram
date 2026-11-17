@@ -1,0 +1,19 @@
+<!-- Destaque de produto. Campos: titulo, subtitulo, emoji OU foto, selo, cta, tema -->
+<html><head><meta charset="utf-8"><style>{{css}}
+body{display:flex;flex-direction:column;padding:100px 80px 70px}
+h1{font-size:{{tamTitulo}}px}
+.sub{font-size:38px;font-weight:600;margin-top:20px;max-width:880px;line-height:1.3}
+.selo{margin-bottom:24px;align-self:flex-start}
+.img{flex:1;display:flex;justify-content:center;align-items:center;min-height:0;margin:30px 0}
+.circ{height:100%;max-height:{{circ}}px;aspect-ratio:1;border-radius:50%;background:var(--acc);border:8px solid var(--ink);display:flex;justify-content:center;align-items:center;overflow:hidden}
+.circ .emoji{font-size:{{emojiTam}}px;filter:drop-shadow(14px 18px 0 rgba(0,0,0,.18))}
+.img .foto{max-width:100%;height:100%}
+.ctaw{text-align:center;margin-bottom:30px}
+.marca{position:static}
+</style></head><body>
+<div class="zigue topo"></div>
+{{seloHtml}}<h1 class="titulo">{{titulo}}</h1><p class="sub">{{subtitulo}}</p>
+<div class="img">{{imagem}}</div>
+<div class="ctaw">{{ctaHtml}}</div>
+<div class="marca">{{marca}}</div>
+</body></html>

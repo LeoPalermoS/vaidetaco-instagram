@@ -1,0 +1,175 @@
+{
+ "posts": [
+  {
+   "id": "1-pedir-story1",
+   "template": "frase",
+   "formato": "story",
+   "tema": "amarelo",
+   "kicker": "Pede aí",
+   "titulo": "Três jeitos de pedir",
+   "subtitulo": "iFood, 99Food ou o link da bio. Você escolhe.",
+   "emoji": "🛵",
+   "cta": "Pede aí",
+   "tamTitulo": 150
+  },
+  {
+   "id": "1-pedir-story2",
+   "template": "frase",
+   "formato": "story",
+   "tema": "amarelo",
+   "kicker": "Pede aí",
+   "titulo": "Tá no iFood",
+   "subtitulo": "Procura Vai de Taco no app e monta seu pedido.",
+   "emoji": "🛵",
+   "cta": "Abrir iFood",
+   "tamTitulo": 180
+  },
+  {
+   "id": "1-pedir-story3",
+   "template": "frase",
+   "formato": "story",
+   "tema": "amarelo",
+   "kicker": "Pede aí",
+   "titulo": "Tá no 99Food",
+   "subtitulo": "Mesmo taco, outro app. Busca Vai de Taco por lá.",
+   "emoji": "🛵",
+   "cta": "Abrir 99Food",
+   "tamTitulo": 180
+  },
+  {
+   "id": "2-horario-story1",
+   "template": "frase",
+   "formato": "story",
+   "tema": "escuro",
+   "kicker": "Tá aberto?",
+   "titulo": "Das 18h às 00h",
+   "subtitulo": "Do jantar até a fome da meia-noite.",
+   "emoji": "🌙",
+   "cta": "Pedir agora",
+   "tamTitulo": 180
+  },
+  {
+   "id": "3-cardapio-story1",
+   "template": "frase",
+   "formato": "story",
+   "tema": "claro",
+   "kicker": "Cardápio",
+   "titulo": "O que tem aqui",
+   "subtitulo": "Tacos, burritos, quesadillas e nachos. Sim, tudo isso.",
+   "emoji": "📋",
+   "cta": "",
+   "tamTitulo": 180
+  },
+  {
+   "id": "3-cardapio-story2",
+   "template": "frase",
+   "formato": "story",
+   "tema": "claro",
+   "kicker": "Cardápio",
+   "titulo": "E pra acompanhar",
+   "subtitulo": "Guacamole e sour cream, porque nacho sozinho fica triste.",
+   "emoji": "📋",
+   "cta": "Quero os dois",
+   "tamTitulo": 150
+  },
+  {
+   "id": "3-cardapio-story3",
+   "template": "cardapio",
+   "formato": "story",
+   "tema": "amarelo",
+   "titulo": "O cardápio",
+   "itens": [
+    {
+     "emoji": "🌮",
+     "nome": "Taco",
+     "desc": "O dono da casa"
+    },
+    {
+     "emoji": "🌯",
+     "nome": "Burrito",
+     "desc": "Grande e bem recheado"
+    },
+    {
+     "emoji": "🧀",
+     "nome": "Quesadilla",
+     "desc": "Queijo que puxa"
+    },
+    {
+     "emoji": "🌶️",
+     "nome": "Nachos",
+     "desc": "Crocantes, pra dividir"
+    },
+    {
+     "emoji": "🥑",
+     "nome": "Guacamole",
+     "desc": "Cremoso e fresquinho"
+    },
+    {
+     "emoji": "🥛",
+     "nome": "Sour cream",
+     "desc": "Pra completar"
+    }
+   ]
+  },
+  {
+   "id": "4-tacos-story1",
+   "template": "frase",
+   "formato": "story",
+   "tema": "amarelo",
+   "kicker": "Tacos",
+   "titulo": "O dono do nome",
+   "subtitulo": "Cabe na mão, some rápido. Peça mais de um.",
+   "emoji": "🌮",
+   "cta": "Vai de taco",
+   "tamTitulo": 180
+  },
+  {
+   "id": "4-tacos-story2",
+   "template": "frase",
+   "formato": "story",
+   "tema": "amarelo",
+   "kicker": "Tacos",
+   "titulo": "Dica de amigo",
+   "subtitulo": "Guacamole e sour cream por cima. Confia.",
+   "emoji": "🌮",
+   "cta": "Pedir tacos",
+   "tamTitulo": 180
+  },
+  {
+   "id": "5-burritos-story1",
+   "template": "frase",
+   "formato": "story",
+   "tema": "escuro",
+   "kicker": "Burritos",
+   "titulo": "Enrolado no bom sentido",
+   "subtitulo": "Tudo junto numa tortilla só. Fome não tem chance.",
+   "emoji": "🌯",
+   "cta": "Vai de burrito",
+   "tamTitulo": 150
+  },
+  {
+   "id": "5-burritos-story2",
+   "template": "frase",
+   "formato": "story",
+   "tema": "escuro",
+   "kicker": "Burritos",
+   "titulo": "Fome grande?",
+   "subtitulo": "Burrito resolve. Das 18h até a meia-noite.",
+   "emoji": "🌯",
+   "cta": "Pedir burrito",
+   "tamTitulo": 180
+  },
+  {
+   "id": "6-promos-story1",
+   "template": "frase",
+   "formato": "story",
+   "tema": "amarelo",
+   "kicker": "Promos",
+   "titulo": "Fica de olho",
+   "subtitulo": "Quando tiver promoção, ela aparece aqui primeiro.",
+   "emoji": "🔥",
+   "cta": "Ativa o sininho",
+   "tamTitulo": 180
+  }
+ ]
+}

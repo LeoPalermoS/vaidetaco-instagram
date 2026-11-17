@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": "01-chegamos", "template": "frase", "formato": "feed", "tema": "escuro", "tamTitulo": 150,
+      "kicker": "Agora também no Insta", "titulo": "Bora de taco\npor aqui?", "subtitulo": "7 meses servindo tacos e burritos. Agora você acompanha tudo de pertinho.", "emoji": "🌮🌯",
+      "legenda": "Demorou, mas chegamos! 🌮\n\nJá são 7 meses servindo taco, burrito, quesadilla e nachos. Agora o cardápio, as novidades e as promoções vão aparecer por aqui.\n\nSegue a gente e marca aquele amigo que sempre topa um taco 👇\n\n#vaidetaco #tacos #burritos #comidamexicana"
+    },
+    {
+      "id": "02-chegamos-story", "template": "frase", "formato": "story", "tema": "amarelo", "tamTitulo": 190,
+      "kicker": "Oi, a gente chegou", "titulo": "Vai de\ntaco?", "subtitulo": "Segue a gente pra ver cardápio, novidades e promoções.", "emoji": "🌮", "cta": "Segue a gente!"
+    },
+    {
+      "id": "03-taco", "template": "produto", "formato": "feed", "tema": "amarelo",
+      "titulo": "Taco", "subtitulo": "Tortilla quentinha, recheio caprichado e molho na medida.", "emoji": "🌮", "selo": "O dono da casa", "cta": "Vai de taco?",
+      "legenda": "O nome não é à toa. 🌮\n\nTortilla quentinha, recheio caprichado e molho na medida. Um é pouco, três é o começo.\n\nQual o seu recheio favorito? Conta aqui 👇\n\n#vaidetaco #tacos #comidamexicana #tacolovers"
+    },
+    {
+      "id": "04-burrito", "template": "produto", "formato": "feed", "tema": "escuro",
+      "titulo": "Burrito", "subtitulo": "Grande, recheado e bem embrulhado. Fome não tem vez.", "emoji": "🌯", "selo": "Mata a fome", "cta": "Bora de burrito",
+      "legenda": "Quando a fome é séria, o burrito resolve. 🌯\n\nGrande, recheado e bem embrulhado pra não perder nada no caminho.\n\nMarca aquele amigo que come um sozinho 😅\n\n#vaidetaco #burrito #burritos #comidamexicana"
+    },
+    {
+      "id": "05-nachos-guaca", "template": "produto", "formato": "feed", "tema": "claro",
+      "titulo": "Nachos + guaca", "subtitulo": "Crocante, cremoso e feito pra dividir. Ou não.", "emoji": "🥑", "selo": "Pra dividir", "cta": "Quem divide?",
+      "legenda": "Nachos crocantes + guacamole cremoso = dupla perfeita. 🥑\n\nE ainda tem sour cream pra quem gosta de exagerar.\n\nVocê divide ou é tudo seu? 👀\n\n#vaidetaco #nachos #guacamole #comidamexicana"
+    },
+    {
+      "id": "06-quesadilla", "template": "produto", "formato": "feed", "tema": "amarelo",
+      "titulo": "Quesadilla", "subtitulo": "Queijo derretido puxando em cada mordida.", "emoji": "🧀", "selo": "Puxa-puxa", "cta": "Vai de quesadilla",
+      "legenda": "Sabe aquele queijo que puxa? Então. 🧀\n\nQuesadilla douradinha por fora e derretendo por dentro.\n\nSalva esse post pra lembrar no próximo pedido 📌\n\n#vaidetaco #quesadilla #comidamexicana"
+    },
+    {
+      "id": "07-cardapio", "template": "cardapio", "formato": "feed", "tema": "amarelo",
+      "titulo": "O cardápio",
+      "itens": [
+        {"emoji": "🌮", "nome": "Taco", "desc": "O dono da casa"},
+        {"emoji": "🌯", "nome": "Burrito", "desc": "Grande e bem recheado"},
+        {"emoji": "🧀", "nome": "Quesadilla", "desc": "Queijo que puxa"},
+        {"emoji": "🌶️", "nome": "Nachos", "desc": "Crocantes, pra dividir"},
+        {"emoji": "🥑", "nome": "Guacamole", "desc": "Cremoso e fresquinho"},
+        {"emoji": "🥛", "nome": "Sour cream", "desc": "Pra completar"}
+      ],
+      "legenda": "Tudo que você encontra por aqui. 🌮🌯🧀\n\nSalva pra escolher com calma 📌 E conta: qual você pede primeiro?\n\n#vaidetaco #cardapio #comidamexicana"
+    }
+  ]
+}

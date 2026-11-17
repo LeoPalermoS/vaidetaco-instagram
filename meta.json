@@ -1,0 +1,6 @@
+{
+  "_nota": "IDs da Meta (não são segredos). O token fica guardado no ambiente, não aqui.",
+  "api": "https://graph.facebook.com/v21.0",
+  "paginaFacebook": { "id": "1358030767402876", "nome": "Vai de Taco" },
+  "instagram": { "id": "17841452193714199", "usuario": "vaidetaco" }
+}
