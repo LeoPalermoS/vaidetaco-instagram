@@ -32,6 +32,7 @@ entre os agentes do time (`.claude/agents/`), revisa o que eles entregam e leva 
 ## Ferramentas
 - `node render.js <arquivo.json> [id]`: transforma HTML em PNG. Saída em `out/`.
 - `./reel.sh saida.mp4 [--musica a.mp3] img1 img2 ...`: gera um Reel vertical.
+- `./ia-imagem.sh "prompt" saida.png`: gera imagem com Nano Banana (chave injetada pelo proxy). Campo `"fundo"` põe foto atrás do texto.
 - Modelos de arte: `templates/` (produto, frase, cardapio, capa). Formatos: feed 1080x1350, story 1080x1920.
 - `"pagina": "1/5"` em qualquer post adiciona o indicador de carrossel.
 - API da Meta: IDs em `meta.json`. O token é injetado pelo proxy em `graph.facebook.com`

@@ -43,3 +43,11 @@ description: Cria artes de feed, carrosséis, stories e capas da Vai de Taco a p
 ## Criar um modelo novo
 Copie um arquivo de `templates/`, mantenha os `{{campos}}` e o `{{css}}` base e teste com um post de exemplo.
 Documente o modelo novo nesta skill.
+
+## Imagens com IA (Nano Banana)
+- `./ia-imagem.sh "prompt em inglês" assets/ia/nome.png [modelo]` gera uma imagem (padrão `gemini-2.5-flash-image`; também há `gemini-3-pro-image`, o Pro).
+- No post, use `"fundo": "assets/ia/nome.png"` e `"escurecer": 0.35` (de 0 a 1) para pôr a foto atrás do texto. Funciona com o tema `escuro`.
+- **Use IA para:** fundos, mesas, ingredientes, texturas, ilustrações e para melhorar fotos reais do dono.
+- **Não use IA para:** inventar pratos da casa como se fossem reais. O cliente espera receber o que vê.
+- Peça "large empty space in the center for text" no prompt quando a imagem for fundo de arte.
+- Cada imagem custa crédito na conta Google do dono: gere o mínimo e reaproveite fundos.

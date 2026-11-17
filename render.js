@@ -31,6 +31,10 @@ function montar(post) {
   d.escala = st ? 1.35 : 1;
   d.itensHtml = (post.itens || []).map(i => `<div class="item"><span class="emoji">${i.emoji || ''}</span><div><b>${esc(i.nome)}</b><small>${esc(i.desc)}</small></div>${i.preco ? `<span class="preco">${esc(i.preco)}</span>` : ''}</div>`).join('');
   let html = fill(fs.readFileSync(path.join(ROOT, 'templates', post.template + '.html'), 'utf8'), d);
+  if (post.fundo) {
+    const escurecer = post.escurecer ?? 0.5;
+    html = html.replace('</style>', `body{background:linear-gradient(rgba(0,0,0,${escurecer}),rgba(0,0,0,${escurecer})),url('${fileUrl(post.fundo)}') center/cover no-repeat !important}</style>`);
+  }
   if (post.pagina) {
     const [a, b] = String(post.pagina).split('/');
     const seta = a !== b ? ' →' : '';

@@ -1,0 +1,6 @@
+{"posts":[
+ {"id":"ia-teste-18h","template":"frase","formato":"feed","tema":"escuro","fundo":"assets/ia/fundo-mesa.png","escurecer":0.35,
+  "kicker":"Fome de fim de tarde?","titulo":"A cozinha\nabre às 18h","subtitulo":"Taco, burrito, quesadilla e nachos saindo até a meia-noite.","cta":"Peça no iFood ou 99Food","tamTitulo":140},
+ {"id":"ia-teste-18h-story","template":"frase","formato":"story","tema":"escuro","fundo":"assets/ia/fundo-mesa.png","escurecer":0.35,
+  "kicker":"Fome de fim de tarde?","titulo":"A cozinha\nabre às 18h","subtitulo":"Taco, burrito, quesadilla e nachos até a meia-noite.","cta":"Pede aí","tamTitulo":150}
+]}
