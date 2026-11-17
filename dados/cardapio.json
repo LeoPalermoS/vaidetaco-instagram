@@ -1,0 +1,456 @@
+{
+ "_fonte": "Planilha do cardápio no Keeta, enviada pelo dono em 17/11/2026. Preços podem variar por app (iFood/99Food/Keeta) — confirmar antes de publicar preço.",
+ "itens": [
+  {
+   "Categoria": "Monte seu Burrito",
+   "Item": "Monte seu Burrito",
+   "Descrição": "Monte do seu jeito! Escolha a proteína, até 7 ingredientes e o queijo.",
+   "Preço (R$)": 69.9,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Categoria": "Combos Individuais",
+   "Item": "2 Tacos à Sua Escolha + Nachos Individual + Guacamole 120ml",
+   "Descrição": "Escolha seus 2 tacos favoritos, recheados do jeitinho que você gosta + Nachos Individual + Guacamole 120ml",
+   "Preço (R$)": 63.9,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Categoria": "Combos Individuais",
+   "Item": "Arriba Arriba!!! 4 Quesadilhas Chilli + Nachos Individual + Guacamole 120ml",
+   "Descrição": "O combo traz 4 quesadilhas artesanais, tostadas no ponto certo e recheadas com chilli beans de carne e cheddar cremoso. Vem uma porção de nachos crocantes e um potinho de guacamole fresco (120ml) feito com aquele tempero que faz toda diferença.",
+   "Preço (R$)": 63.9,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Categoria": "Combos Individuais",
+   "Item": "Burritos La Mexico - 1 Burrito A Sua Escolha + 1 Nachos Individual + 1 Guacamole",
+   "Descrição": "1 Burrito a sua escolha + 1 Nachos individual + Guacamole fresca(120ml)",
+   "Preço (R$)": 69.9,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Categoria": "Combos Individuais",
+   "Item": "Takitos 12 Cm - 4 Tacos A Sua Escolha + 1 Guacamole 120ml Grátis",
+   "Descrição": "4 Tacos a sua escolha + 1 Guacamole (120ml) Grátis",
+   "Preço (R$)": 69.9,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Categoria": "Combos Individuais",
+   "Item": "Guacamole 120ml",
+   "Descrição": null,
+   "Preço (R$)": 9,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Categoria": "Burritos",
+   "Item": "Mega Burrito Frango Suculento",
+   "Descrição": "Uma tortilha de trigo, tostada no ponto certo, recheada com frango desfiado bem temperado, queijo derretido, alface americana crocante e finalizada com uma generosa camada de guacamole cremoso. Perfeito pra quem quer um burrito completo, leve e cheio de sabor!",
+   "Preço (R$)": 53.9,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Categoria": "Burritos",
+   "Item": "Mega Burrito Tradicional",
+   "Descrição": "Uma tortilha de trigo, tostada na medida certa e recheada com chilli beans com carne e feijão, cheddar cremoso, queijo derretido e alface americana crocante. A combinação perfeita pra quem curte o burrito raiz, com tudo o que tem direito!",
+   "Preço (R$)": 53.9,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Categoria": "Burritos",
+   "Item": "Mega Burrito de Pernil",
+   "Descrição": "Tortilha de trigo de 30cm, levemente tostada, recheada com pernil desfiado suculento, queijo derretido, alface crocante e o toque especial do nosso molho barbecue. Um burrito gigante, saboroso e completo, perfeito pra matar a fome com muito sabor!",
+   "Preço (R$)": 53.9,
+   "Disponível agora": "Não"
+  },
+  {
+   "Categoria": "Quesadillas Mexicana",
+   "Item": "Quesadilha de Chilli Beans",
+   "Descrição": "São 6 fatias de tortilhas crocantes, recheadas com uma combinação irresistível de chilli beans de carne e queijo derretido",
+   "Preço (R$)": 58,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Categoria": "Quesadillas Mexicana",
+   "Item": "Quesadilha de Frango",
+   "Descrição": "São 6 fatias de tortilhas douradas, recheadas com frango desfiado, queijo derretido e guacamole fresca.",
+   "Preço (R$)": 58,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Categoria": "Quesadillas Mexicana",
+   "Item": "Quesadilha de Pernil",
+   "Descrição": "São 6 fatias de tortilha de trigo crocante, recheadas com pernil desfiado, cozido lentamente pra ficar super macio, misturado com queijo derretido e um toque de molho barbecue. Uma combinação intensa e irresistível, que mistura cremosidade, crocância e aquele gostinho mexicano que conquista na primeira mordida.",
+   "Preço (R$)": 58,
+   "Disponível agora": "Não"
+  },
+  {
+   "Categoria": "Quesadillas Mexicana",
+   "Item": "Quesadilha Chocolate ao Leite",
+   "Descrição": "Kit com 6 pedaços de tortilha de trigo tostada, recheada com chocolate ao leite cremoso e derretido. Crocrância por fora, explosão de chocolate por dentro. Perfeita pra compartilhar (ou não)!",
+   "Preço (R$)": 51.9,
+   "Disponível agora": "Não"
+  },
+  {
+   "Categoria": "Nachos Mexicanos",
+   "Item": "Nachos Mexicano - Nachos + Chilli + Cheddar",
+   "Descrição": "Porção de nachos crocantes, servidos com chilli beans com carne e molho cheddar cremoso à parte. Pra mergulhar, montar e devorar do seu jeito!",
+   "Preço (R$)": 56.9,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Categoria": "Nachos Mexicanos",
+   "Item": "Cheddar Extra",
+   "Descrição": "Aproximadamente 150ml",
+   "Preço (R$)": 29,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Categoria": "Nachos Mexicanos",
+   "Item": "Chilli Beans Extra",
+   "Descrição": "Porção de carne com feijao. Levemente apimentado",
+   "Preço (R$)": 25,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Categoria": "Nachos Mexicanos",
+   "Item": "Nachos Extra",
+   "Descrição": "Porção extra de nachos crocantes, 150g. Ideal para complementar seu pedido com muito mais sabor e textura",
+   "Preço (R$)": 22,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Categoria": "Nachos Mexicanos",
+   "Item": "Taco Extra",
+   "Descrição": "1 unidade de taco para rechear em casa.",
+   "Preço (R$)": 20,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Categoria": "Nachos Mexicanos",
+   "Item": "Guacamole 120 ml",
+   "Descrição": null,
+   "Preço (R$)": 10,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Categoria": "Combo para Compartilhar",
+   "Item": "La Festa Del Mexico",
+   "Descrição": "Combo completo com 2 burritos (1 de frango desfiado e 1 de chilli beans com feijão), 1 porção de nachos com chilli e cheddar cremoso, 4 tacos sabor tradicional e 1 porção de guacamole fresco (120g). Ideal para compartilhar ou matar a fome com muito sabor.",
+   "Preço (R$)": 160,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Categoria": "Combo para Compartilhar",
+   "Item": "Viva La Vida",
+   "Descrição": "6 pedaços de quesadilhas tradicional chilli beans de carne, 1 porção de nachos artesanal com chilli beans de carne e molho cheddar cremoso, 4 tacos artesanais de carne com chilli, com tomate picadinho, queijo e salada.",
+   "Preço (R$)": 139.9,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Categoria": "Combo para Compartilhar",
+   "Item": "Takititos 10 Unidades 10 Cm",
+   "Descrição": "10 mini tacos de 10 cm recheados com o sabor da sua escolha. Todos acompanham queijo cremoso e guacamole para finalizar com muito sabor.",
+   "Preço (R$)": 91.9,
+   "Disponível agora": "Não"
+  },
+  {
+   "Categoria": "Combo para Compartilhar",
+   "Item": "Sour Cream",
+   "Descrição": null,
+   "Preço (R$)": 12,
+   "Disponível agora": "Não"
+  },
+  {
+   "Categoria": "Bebidas",
+   "Item": "Coca-Cola Original",
+   "Descrição": "Refrigerante Coca-Cola | 350ml",
+   "Preço (R$)": 8.9,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Categoria": "Bebidas",
+   "Item": "Coca-Cola Zero",
+   "Descrição": "Refrigerante Coca-Cola Zero | 350ml",
+   "Preço (R$)": 8.9,
+   "Disponível agora": "Não"
+  },
+  {
+   "Categoria": "Bebidas",
+   "Item": "Guaraná Original",
+   "Descrição": "Refrigerante Guaraná Original | 350ml",
+   "Preço (R$)": 8.9,
+   "Disponível agora": "Não"
+  },
+  {
+   "Categoria": "Bebidas",
+   "Item": "Guaraná Zero",
+   "Descrição": "Refrigerante Guaraná Zero | 350ml",
+   "Preço (R$)": 8.9,
+   "Disponível agora": "Sim"
+  }
+ ],
+ "adicionais": [
+  {
+   "Grupo de adicionais": "Escolha O Seu Recheio:",
+   "Obrigatório?": "Obrigatório",
+   "Mín.": 1,
+   "Máx.": 1,
+   "Usado em": "2 itens",
+   "Opção": "Frango",
+   "Preço (R$)": 0,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Escolha O Seu Recheio:",
+   "Obrigatório?": "Obrigatório",
+   "Mín.": 1,
+   "Máx.": 1,
+   "Usado em": "2 itens",
+   "Opção": "Tradicional",
+   "Preço (R$)": 0,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Escolha O Seu Recheio:",
+   "Obrigatório?": "Obrigatório",
+   "Mín.": 1,
+   "Máx.": 1,
+   "Usado em": "2 itens",
+   "Opção": "Pernil",
+   "Preço (R$)": 0,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Escolha O Seu Recheio: (opcional)",
+   "Obrigatório?": "Opcional",
+   "Mín.": 0,
+   "Máx.": 1,
+   "Usado em": "3 itens",
+   "Opção": "Frango",
+   "Preço (R$)": 0,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Escolha O Seu Recheio: (opcional)",
+   "Obrigatório?": "Opcional",
+   "Mín.": 0,
+   "Máx.": 1,
+   "Usado em": "3 itens",
+   "Opção": "Tradicional",
+   "Preço (R$)": 0,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Escolha O Seu Recheio: (opcional)",
+   "Obrigatório?": "Opcional",
+   "Mín.": 0,
+   "Máx.": 1,
+   "Usado em": "3 itens",
+   "Opção": "Pernil",
+   "Preço (R$)": 0,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Acompanhamentos",
+   "Obrigatório?": "Opcional",
+   "Mín.": 0,
+   "Máx.": 5,
+   "Usado em": "15 itens",
+   "Opção": "Guacamole 120 ml",
+   "Preço (R$)": 10,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Acompanhamentos",
+   "Obrigatório?": "Opcional",
+   "Mín.": 0,
+   "Máx.": 5,
+   "Usado em": "15 itens",
+   "Opção": "Sour Cream",
+   "Preço (R$)": 12,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Acompanhamentos",
+   "Obrigatório?": "Opcional",
+   "Mín.": 0,
+   "Máx.": 5,
+   "Usado em": "15 itens",
+   "Opção": "Pimenta Jalapenho",
+   "Preço (R$)": 12,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Acompanhamentos",
+   "Obrigatório?": "Opcional",
+   "Mín.": 0,
+   "Máx.": 5,
+   "Usado em": "15 itens",
+   "Opção": "Guacamole 120ml",
+   "Preço (R$)": 9,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Escolha os ingredientes (Monte seu Burrito)",
+   "Obrigatório?": "Obrigatório",
+   "Mín.": 1,
+   "Máx.": 7,
+   "Usado em": "Monte seu Burrito",
+   "Opção": "Alface",
+   "Preço (R$)": 0,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Escolha os ingredientes (Monte seu Burrito)",
+   "Obrigatório?": "Obrigatório",
+   "Mín.": 1,
+   "Máx.": 7,
+   "Usado em": "Monte seu Burrito",
+   "Opção": "Tomate",
+   "Preço (R$)": 0,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Escolha os ingredientes (Monte seu Burrito)",
+   "Obrigatório?": "Obrigatório",
+   "Mín.": 1,
+   "Máx.": 7,
+   "Usado em": "Monte seu Burrito",
+   "Opção": "Cebola roxa",
+   "Preço (R$)": 0,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Escolha os ingredientes (Monte seu Burrito)",
+   "Obrigatório?": "Obrigatório",
+   "Mín.": 1,
+   "Máx.": 7,
+   "Usado em": "Monte seu Burrito",
+   "Opção": "Milho",
+   "Preço (R$)": 0,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Escolha os ingredientes (Monte seu Burrito)",
+   "Obrigatório?": "Obrigatório",
+   "Mín.": 1,
+   "Máx.": 7,
+   "Usado em": "Monte seu Burrito",
+   "Opção": "Pimenta",
+   "Preço (R$)": 0,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Escolha os ingredientes (Monte seu Burrito)",
+   "Obrigatório?": "Obrigatório",
+   "Mín.": 1,
+   "Máx.": 7,
+   "Usado em": "Monte seu Burrito",
+   "Opção": "Guacamole",
+   "Preço (R$)": 0,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Escolha os ingredientes (Monte seu Burrito)",
+   "Obrigatório?": "Obrigatório",
+   "Mín.": 1,
+   "Máx.": 7,
+   "Usado em": "Monte seu Burrito",
+   "Opção": "Nachos triturado",
+   "Preço (R$)": 0,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Escolha os ingredientes (Monte seu Burrito)",
+   "Obrigatório?": "Obrigatório",
+   "Mín.": 1,
+   "Máx.": 7,
+   "Usado em": "Monte seu Burrito",
+   "Opção": "Sour cream",
+   "Preço (R$)": 0,
+   "Disponível agora": "Não"
+  },
+  {
+   "Grupo de adicionais": "Escolha os ingredientes (Monte seu Burrito)",
+   "Obrigatório?": "Obrigatório",
+   "Mín.": 1,
+   "Máx.": 7,
+   "Usado em": "Monte seu Burrito",
+   "Opção": "Molho barbecue",
+   "Preço (R$)": 0,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Escolha os ingredientes (Monte seu Burrito)",
+   "Obrigatório?": "Obrigatório",
+   "Mín.": 1,
+   "Máx.": 7,
+   "Usado em": "Monte seu Burrito",
+   "Opção": "Molho de limão",
+   "Preço (R$)": 0,
+   "Disponível agora": "Não"
+  },
+  {
+   "Grupo de adicionais": "Escolha o queijo (Monte seu Burrito)",
+   "Obrigatório?": "Obrigatório",
+   "Mín.": 1,
+   "Máx.": 1,
+   "Usado em": "Monte seu Burrito",
+   "Opção": "Mussarela",
+   "Preço (R$)": 0,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Escolha o queijo (Monte seu Burrito)",
+   "Obrigatório?": "Obrigatório",
+   "Mín.": 1,
+   "Máx.": 1,
+   "Usado em": "Monte seu Burrito",
+   "Opção": "Cheddar cremoso",
+   "Preço (R$)": 0,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Escolha o queijo (Monte seu Burrito)",
+   "Obrigatório?": "Obrigatório",
+   "Mín.": 1,
+   "Máx.": 1,
+   "Usado em": "Monte seu Burrito",
+   "Opção": "Catupiry",
+   "Preço (R$)": 6,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Turbine seu burrito",
+   "Obrigatório?": "Opcional",
+   "Mín.": 0,
+   "Máx.": 3,
+   "Usado em": "Monte seu Burrito",
+   "Opção": "Dobro de proteína",
+   "Preço (R$)": 19.9,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Turbine seu burrito",
+   "Obrigatório?": "Opcional",
+   "Mín.": 0,
+   "Máx.": 3,
+   "Usado em": "Monte seu Burrito",
+   "Opção": "Dobro de queijo",
+   "Preço (R$)": 9.9,
+   "Disponível agora": "Sim"
+  },
+  {
+   "Grupo de adicionais": "Turbine seu burrito",
+   "Obrigatório?": "Opcional",
+   "Mín.": 0,
+   "Máx.": 3,
+   "Usado em": "Monte seu Burrito",
+   "Opção": "Guacamole extra 120 ml",
+   "Preço (R$)": 9.9,
+   "Disponível agora": "Sim"
+  }
+ ]
+}
